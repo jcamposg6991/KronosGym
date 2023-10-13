@@ -3,10 +3,10 @@
  * Abre la base de datos de tipo MySQL
  */
 class Conexion{
-  private $host = "192.185.131.153";
-  private $usuario = "jcdesarr";
-  private $clave = "Nana5857!";
-  private $db = "jcdesarr_kronosgym";
+  private $host = "xxx.xxx.xxx.xxx";
+  private $usuario = "xxxxxxx";
+  private $clave = "xxxxxxxx";
+  private $db = "xxxxxxx";
   private $conn;
   
   function __construct()
